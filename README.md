@@ -1,5 +1,10 @@
 # gitlab-migration
 
+## Prerequsite
+
+### Install [gcloud](https://cloud.google.com/sdk/docs/install-sdk)
+### Install [python](https://www.python.org/downloads/) > `3.7`
+
 ## Instructions
 
 ### 1. create a python virtual environment and activate it
